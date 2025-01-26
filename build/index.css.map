@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://data-store-demo/./src/editor.scss"],"sourcesContent":[".wp-block-data-store-demo {\r\n\tborder: 1px solid #f00;\r\n}\r\n"],"names":[],"sourceRoot":""}
